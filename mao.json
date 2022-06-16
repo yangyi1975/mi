@@ -31,6 +31,24 @@
       "quickSearch": 1,
       "filterable": 1
     },
+    {
+      "key": "csp_kuaikan",
+      "name": "快看(SP)",
+      "type": 3,
+      "api": "csp_Kuaikan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
+      "key": "csp_zxzj",
+      "name": "在线(SP)",
+      "type": 3,
+      "api": "csp_Zxzj",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
       "key": "csp_CZSPP",
       "name": "厂长(SP)",
@@ -136,15 +154,17 @@
       "filterable": 1,
       "ext": "http://r.zjj.life:88/mv/api.php/Chengcheng/vod"
     },
+    {"api":"csp_AppYsV2","ext":"http://jf.35ys.cc/lehailb_api.php/v1.vod","key":"csp_每天影视","filterable":1,"name":"每天影视","type":3},
+    {"api":"csp_AppYsV2","ext":"https://ys.ling00.cn/api.php/v1.vod","key":"csp_领克影视","filterable":1,"name":"领克影视(优质)","type":3},
     {
             "key": "csp_appysv2_特狗影视",
-            "name": "特狗影视APP",
+            "name": "特狗影视",
             "type": 3,
             "api": "csp_AppYsV2",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
-            "ext": "https://www.tegouys.com/xgapp.php/v2/"
+            "ext": "http://tv.tegouys.com/api.php/iptv/vod/"
         },
         {
       "key": "csp_appys_看365",
@@ -156,6 +176,16 @@
       "filterable": 1,
       "ext": "https://www.kan365.xyz/api.php/app/"
     },
+    {
+          "key": "csp_appysv2_麻花",
+          "name": "麻花",
+          "type": 3,
+          "api": "csp_AppYsV2",
+          "searchable": 1,
+          "quickSearch": 1,
+          "filterable": 1,
+          "ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
+       },
 {
       "key": "csp_appysv2_看看",
       "name": "看看吧",
@@ -166,6 +196,9 @@
       "filterable": 1,
       "ext": "http://888.ccboke.top/ruifenglb_api.php/v1.vod"
     },
+    {"key":"csp_appYsv2_美剧虫","name": "美剧虫（M）","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://meijuchong.com/api.php/v1.vod"},
+ {"key":"csp_appysv2_小南TV","name":"小南TV（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://n293.ngys.xyz/mv/api.php/Chengcheng/vod/"},
+{"key":"csp_appysv2_CV影视","name":"CV影视（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.cccvvv.top/api.php/iptv/vod/"},
  {
       "key": "csp_appysv2_天空影视V2",
       "name": "天空影视V2(M2)",
@@ -177,17 +210,12 @@
       "ext": "https://www.tkys.tv/xgapp.php/v2/"
     },
 {"key":"csp_biubiu_在线之家","name":"在线之家(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/在线之家.json"},
-{"key":"csp_biubiu_hdmoli","name":"hdmoli(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/hdmoli.json"},
 {"key":"csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/骚火电影.json"},
-{"key":"csp_biubiu_周末电影","name":"周末电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/周末电影.json"},
 {"key":"csp_biubiu_完美看看影视","name":"完美看看影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/完美看看影视.json"},
 {"key":"csp_biubiu_口袋影院","name":"口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/口袋影院.json"},
 {"key":"csp_biubiu_348电影网","name":"348电影网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/348电影网.json"},
-{"key":"csp_biubiu_思乐影视","name":"思乐影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/思乐影视.json"},
 {"key":"csp_biubiu_爱港剧","name":"爱港剧(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/爱港剧.json"},
 {"key":"csp_biubiu_小熊影视","name":"小熊影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/小熊影视.json"},
-{"key":"csp_biubiu_克拉TV","name":"克拉TV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/克拉TV.json"},
-{"key":"csp_biubiu_创艺影视","name":"创艺影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/创艺影视.json"},
 {"key":"csp_biubiu_利丽娅电影","name":"利丽娅电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/利丽娅电影.json"},
 {"key":"csp_biubiu_七年影视","name":"七年影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/七年影视.json"},
 {"key":"csp_biubiu_蓝莓影视","name":"蓝莓影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/蓝莓影视.json"},
@@ -198,7 +226,6 @@
 {"key":"csp_biubiu_Nike影视网","name":"Nike影视网(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/Nike影视网.json"},
 {"key":"csp_biubiu_伊雪湾","name":"伊雪湾(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/伊雪湾.json"},
 {"key":"csp_biubiu_双十电影","name":"双十电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/双十电影.json"},
-{"key":"csp_biubiu_139影视","name":"139影视(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/biubiu/139影视.json"},
 {
       "key": "csp_xpath_qiyou",
       "name": "奇优电影(XP)",
@@ -447,6 +474,17 @@
       "filterable": 1,
       "ext": "https://app.bl210.com/api.php/v1.vod"
     },
+    {
+        "key": "csp_appysv2_影库",
+        "name": "影库",
+        "type": 3,
+        "api": "csp_AppYsV2",
+        "searchable": 1,
+        "quickSearch": 1,
+        "filterable": 1,
+        "ext": "https://yingkudy.com/lvdou_api.php/v1.vod"
+     },
+     {"key":"csp_appysv2_2号币","name":"2号币（M）","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://phoebe.cf/api.php/iptv/vod/"},
    {"key":"csp_xpath_lmys","name":"来米影视(XP)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/xpath/qdytv.json"},
     {
       "key": "csp_xpath_1080p",
@@ -734,6 +772,23 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://shangjihuoke.com/api.php/tv.vod"
+    },
+    {
+        "key":"江北官采",
+        "name":"江北",
+        "type":0,
+        "searchable":1,
+        "quickSearch":1,
+        "api":"https://gfzycj.hnmj.vip/api.php/provide/vod/at/xml",
+        "playUrl":""
+    },
+    {
+      "key": "csp_xml_gc",
+      "name": "官采",
+      "type": 1,
+      "api": "http://caiji.nxflv.com/api.php/provide/vod/?ac=list",
+      "playUrl": "parse:自动解析",
+      "categories": []
     },
     {
       "key": "csp_appysv2_粉象视界",
