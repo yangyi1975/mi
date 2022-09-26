@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/xw/P/raw/branch/master/jar/922.jar;md5;80D5AF87BF35848C7FD2FFC08CCC1A1E",
+"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/922.jar;md5;80D5AF87BF35848C7FD2FFC08CCC1A1E",
 "sites":[
    {
       "key": "csp_kuaikan",
@@ -66,6 +66,7 @@
             "filterable": 1,
             "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMTg1MywiQ3JlYXRlZEF0IjoiMjAyMi0wOC0yNFQxMDo1ODoyMS4wMTIrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA4LTI0VDEwOjU4OjIxLjAxMiswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjEzMDA4MjY1NTlAcXEuY29tIiwidXNlcl9uYW1lIjoiIiwidXNlcl9wd2QiOiIiLCJ1c2VyX2lkIjoiOWVkNjllZDItMTZiMC00Zjc4LTkxMzgtNTA5NjUzY2FlZjFmIiwidXNlcl9hbnN3ZXIiOiIiLCJsb2NrX2lzIjoiRmFsc2UiLCJpc190diI6IiIsImlzX2FkbWluIjoiRmFsc2UiLCJyZWdfdGltZSI6bnVsbCwicmVnX2tleSI6IiIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjE5OTcwNzEsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9._FdSOTWMe0AVLaqUJ2598I0nB_uFnrvbmLZfQOSK-LU"
         },
+{"key":"csp_SP293","name":"293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/93.jar;md5;B0E36660C3DAC82272D197ED16C7C6E2"},
 {"key":"3EDY","name":"3E电影","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
  {"key":"spider_IKan","name":"爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Libvio","name":"Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
@@ -137,6 +138,8 @@
             "ext": "http://v.jiexi.work/qingdoujiekou.php/v1.vod"
         },
 {"key":"多多采集","name":"多多影视","type":1,"api":"https://www.ddzyz1.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories":["国产剧","综艺","动画片","日韩剧","喜剧片","爱情片","科幻片","恐怖片"]},
+{"key":"csp_AppYsV2","name":"优众影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.194:7878/xgapp.php/v2/"},
+{"key":"csp_app_独优影视","name":"独优影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
 {
       "key": "体育直播",
       "name": "体育直播",
@@ -267,6 +270,25 @@
 {"key":"北雁资源","name":"北燕资源","type":1,"api":"https://zy.beiyan.cc:4433/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1,"playUrl":"","categories": ["电影", "国产剧", "港台剧", "日韩剧", "欧美剧", "综艺", "动漫"]},
 {"key": "在线直播","name": "在线直播","type": 3,"api": "csp_Yj1211","searchable": 1,"quickSearch": 1,"filterable": 1},
 {
+            "key": "哔滴影视",
+            "name": "哔滴(爬虫)",
+            "type": 3,
+            "api": "csp_Bdys01",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
+            "key":"csp_Xifanys",
+            "name":"稀饭(爬虫)",
+            "type":3,
+            "api":"csp_Xifanys",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"https://agit.ai/wzs1973/test/raw/branch/master/jar/xifan.jar;md5;bf399b7093d34261f759be43e04232ed"
+        },
+{
       "key": "csp_biubiu_饭团1",
       "name": "饭团高清",
       "type": 3,
@@ -294,11 +316,11 @@
             "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/yso.jar;md5;C21E26F56D8A11A169B11DA5C875DF93"
         },
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/alis.jar;md5;d77eb510164add3bc4cad0f3626671a7","ext":"59744816075f4729bc00cd23b98e3447"},
+"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/925.jar;md5;B273AC2E81F1326724494FFF3AD88634","ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 {"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/alis.jar;md5;d77eb510164add3bc4cad0f3626671a7","ext":"59744816075f4729bc00cd23b98e3447"},
+"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/925.jar;md5;B273AC2E81F1326724494FFF3AD88634","ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 {"key":"csp_Yiso","name":"易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,
-"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/alis.jar;md5;d77eb510164add3bc4cad0f3626671a7","ext":"59744816075f4729bc00cd23b98e3447"},
+"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/925.jar;md5;B273AC2E81F1326724494FFF3AD88634","ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
 {"key":"堂","name":"吾爱学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
 "ext":"https://agit.ai/raoyang100/mi/raw/branch/master/xpath/yjxx.json"},
