@@ -68,7 +68,6 @@
         },
 {"key":"csp_SP293","name":"293影视","type":3,"api":"csp_SP293","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/93.jar;md5;B0E36660C3DAC82272D197ED16C7C6E2"},
 {"key":"3EDY","name":"3E电影","type":3,"api":"csp_EEEDY","searchable":1,"quickSearch":1,"filterable":1},
- {"key":"spider_IKan","name":"爱看","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Libvio","name":"Libvio","type":3,"api":"csp_Lib","searchable":1,"quickSearch":1,"filterable":1},
 {
             "key": "csp_dd5555",
