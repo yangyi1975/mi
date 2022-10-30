@@ -1,5 +1,5 @@
 {
-"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/1010.jar;md5;B54ED1DA69AC4CF9B3577080A52B7B2F",
+"spider":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/pan.jar;md5;cf3d3695dd5014a2b7120e4a9ce03a1c",
 "sites":[
    {
       "key": "csp_kuaikan",
@@ -17,10 +17,10 @@
       "api": "csp_Kunyu77",
       "searchable": 1,
       "quickSearch": 1,
-      "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/77.jar;md5;5F6A69AC1B85BC9F4FC3B352009C6739",
       "filterable": 1
     },
-{"key":"csp_Bttoo" ,"name":"两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"csp_Bttoo" ,"name":"两个BT","type": 3,"api": "csp_Bttoo","searchable": 1,"quickSearch": 1, 
+"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/1010.jar;md5;B54ED1DA69AC4CF9B3577080A52B7B2F","filterable": 1},
  {
       "key": "csp_SP360",
       "name": "360(SP)",
@@ -39,12 +39,102 @@
       "quickSearch": 1,
       "filterable": 1
       },
+{
+            "key": "Yanet",
+            "name": "Yanet(爬虫)",
+            "type": 3,
+            "api": "csp_Yanet",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Lgyy",
+            "name": "蓝光(爬虫)",
+            "type": 3,
+            "api": "csp_Lgyy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Ddys",
+            "name": "低端(爬虫)",
+            "type": 3,
+            "api": "csp_Ddys",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
+            "key": "Zjdr",
+            "name": "追剧达人(爬虫)",
+            "type":3,
+            "api": "csp_Zjdr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Auete",
+            "name": "Auete(爬虫)",
+            "type": 3,
+            "api": "csp_Auete",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "Smdyy",
+            "name": "神马(爬虫)",
+            "type":3,
+            "api":"csp_Smdyy",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1
+        },
+        {
+            "key": "Coke",
+            "name": "Cokemv(爬虫)",
+            "type": 3,
+            "api": "csp_Cokemv",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+{
+            "key": "LiteApple",
+            "name": "小苹果(爬虫)",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        }, 
+        {
+            "key": "在线之家",
+            "name": "在线之家(爬虫)",
+            "type": 3,
+            "api": "csp_Zxzj",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
 {"key":"追剧喵","name":"追剧喵","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_AppTT" ,"name": "图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1, 
-"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/tutu.jar;md5;342E26063CB928CBEEEA1F749678381D"},
-{"key": "Kan","name": "爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1,"jar":"https://agit.ai/hongdeng98/XZY/raw/branch/main/jar/custom_spider.jar"},
+{"key": "csp_AppTT" ,"name": "图图（SP）","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "Kan","name": "爱看(SP)","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key":"csp_biubiu_骚火电影","name":"骚火电影(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/骚火电影.json"},
 {"key":"csp_biubiu_口袋影院","name":"口袋影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/口袋影院.json"},
+{
+            "key": "Voflix",
+            "name": "Voflix(XB)",
+            "type": 3,
+            "api": "csp_XBiubiu",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": "https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/voflix.json"
+        },
 {"key":"csp_biubiu_影视工厂","name":"影视工厂(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/raoyang100/mi/raw/branch/master/biubiu/影视工厂.json"},
 {"key": "Lezhu_spider","name": "乐猪影视","api": "csp_Lezhu","type": 3,"filterable": 1,"quickSearch": 1,"searchable": 1,"ext": ""},
 {  "key": "csp_mjxq",
@@ -69,9 +159,12 @@
 "playUrl":"","searchable":1,"quickSearch":1,"filterable":0,
 "categories":["国产剧","港台剧","日韩剧","欧美剧","综艺","动漫","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片"]},
 {"key":"csp_app_独优影视","name":"独优影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://121.205.88.71:218/api.php/Chengcheng/vod/"},
-{"key":"csp_QQ","name":"腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,"filterable":1},
-{"key":"爱奇艺","name":"奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,"filterable":1},
-{"key":"csp_MGTV","name":"芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_QQ","name":"腾讯(SP)","type": 3,"api":"csp_QQ","searchable": 1,"quickSearch": 1,
+ "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/1010.jar;md5;B54ED1DA69AC4CF9B3577080A52B7B2F","filterable":1},
+{"key":"爱奇艺","name":"奇艺(SP)","type":3,"api":"csp_IQIYI","quickSearch":1,"searchable":1,
+ "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/1010.jar;md5;B54ED1DA69AC4CF9B3577080A52B7B2F","filterable":1},
+{"key":"csp_MGTV","name":"芒果(SP)","type":3,"api":"csp_MGTV","searchable":1,"quickSearch":1,
+ "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/1010.jar;md5;B54ED1DA69AC4CF9B3577080A52B7B2F","filterable":1},
 {
             "key":"youku",
             "name":"优酷",
@@ -240,11 +333,11 @@
  "filterable":1,"type_flag":1,"jar":"https://agit.ai/raoyang100/h/raw/branch/master/jar/Q8.jar"
 },
 {"key":"Gitcafe","name":"小纸条","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/925.jar;md5;B273AC2E81F1326724494FFF3AD88634","ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
+"ext":"998c79f4f189435090049164d503e4e3"},
 {"key":"FindZY","name":"找资源","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,
-"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/925.jar;md5;B273AC2E81F1326724494FFF3AD88634","ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
-{"key":"csp_Yiso","name":"易搜","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,
-"jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/925.jar;md5;B273AC2E81F1326724494FFF3AD88634","ext":"8f0b3f0dc1834f309f077ea5549e99a8"},
+"ext":"998c79f4f189435090049164d503e4e3"},
+{"key":"csp_AliPS","name":"盘搜","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,
+"ext":"998c79f4f189435090049164d503e4e3"},
 {"key":"堂","name":"吾爱学堂","type": 3,"api": "csp_Bili","searchable":0,"quickSearch":0,"filterable":1,
 "jar":"https://agit.ai/raoyang100/mi/raw/branch/master/jar/bili.jar;md5;C5C337BB2793598E9AA5953898FBB087",
 "ext":"https://agit.ai/raoyang100/mi/raw/branch/master/xpath/yjxx.json"},
